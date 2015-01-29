@@ -1,0 +1,19 @@
+Map {
+  background-color:  #242424;
+}
+
+#countries {
+  ::outline {
+    line-color: #242424;
+    line-width: 2;
+    line-join: round;
+  }
+  polygon-fill: #0d0c0c;
+}
+#map{
+  marker-width:6;
+  marker-fill:#ef0;
+  marker-opacity:.30;
+  marker-line-opacity:0;
+  marker-allow-overlap:true;
+}
